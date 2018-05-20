@@ -1,3 +1,4 @@
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />
 # COMM 4407A Critical Data Studies (Fall 2016)
 > Communication Studies, Carleton University
 
@@ -14,10 +15,12 @@
 **Office Hours:** Mondays 2:30 to 5:30pm, Thursdays 9:30-11:30AM
 
 # Quick Navigation
-| Course Description and Objectives 	|
+
+
+|[Course Description and Objectives](https://github.com/TraceyLauriault/COMM4407_Fall2016#course-description) 	|
 |-----------------------------------	|
-| Assignments 	|
-| Readings and Schedule 	|
+| [Assignments](https://github.com/TraceyLauriault/COMM4407_Fall2016#assignments) 	|
+| [Readings and Schedule](https://github.com/TraceyLauriault/COMM4407_Fall2016#readings--schedule) 	|
 
 # Course Description
 > This course will teach students to think critically about data and their assemblages. Emphasis will be on the sociotechnical and political implications of data via a number of contemporary issues. Students will learn that they are data subjects and datafied, they have a data double, leave behind data shadows, statistical agencies try to re-create them as a data person, data socially shape them, they may be domesticated by data, that they may be governed by a dataism ideology and that they may be in the midst of a data revolution.
@@ -79,19 +82,19 @@ Extensions must be requested in advance, in person, and will typically require d
 
 | **Week** 	| **Theme** 	|
 |--------------------------	|-------------------------------------------------------	|
-| Week 1 (Sept.8) 	| Introduction 	|
-| Week 2 (Sept.15) 	| Conceptualizing Data 	|
-| Week 3 (Sept.22) 	| Open Data & Indicators 	|
-| Week 4 (Sept.29) 	| Open Government, Public Policy and Citizen Engagement 	|
-| Week 5 (Oct.6th) 	| The Characteristics of Big Data 	|
-| Week 6 (Oct.13th) 	| The Enablers of Big Data 	|
-| Week 7 (Oct.20th) 	| Data Science & Data Analytics 	|
+| Week 1 (Sept.8) 	| [Introduction](https://github.com/TraceyLauriault/COMM4407_Fall2016#week-1-sept8--introduction) 	|
+| Week 2 (Sept.15) 	| [Conceptualizing Data](https://github.com/TraceyLauriault/COMM4407_Fall2016#week-2-sept-15--conceptualizing-data) 	|
+| Week 3 (Sept.22) 	| [Open Data & Indicators](https://github.com/TraceyLauriault/COMM4407_Fall2016#week-3-sept-22--open-data--indicators) 	|
+| Week 4 (Sept.29) 	| [Open Government, Public Policy and Citizen Engagement](https://github.com/TraceyLauriault/COMM4407_Fall2016#week-4-sept-29--open-government-public-policy-and-citizen-engagement) 	|
+| Week 5 (Oct.6th) 	| [The Characteristics of Big Data](https://github.com/TraceyLauriault/COMM4407_Fall2016#week-5-oct-6---the-characteristics-of-big-data) 	|
+| Week 6 (Oct.13th) 	| [The Enablers of Big Data](https://github.com/TraceyLauriault/COMM4407_Fall2016#week-6-oct-13--the-enablers-of-big-data) 	|
+| Week 7 (Oct.20th) 	| [Data Science & Data Analytics](https://github.com/TraceyLauriault/COMM4407_Fall2016#week-7-oct-20--data-science--data-analytics) 	|
 | Fall Break (Oct.24-28th) 	| No classes 	|
-| Week 8 (Nov.3rd) 	| Data Politics, Activism and Cultures 	|
-| Week 9 (Nov.10th) 	| Data Brokers and Credit Scoring 	|
-| Week 10 (Nov.17th) 	| The Rationale for Big Data 	|
-| Week 11 (Nov.24th) 	| The End of Science? 	|
-| Week 12 (Dec.1st) 	| Ethical, Political, Social and Legal Concerns 	|
+| Week 8 (Nov.3rd) 	| [Data Politics, Activism and Cultures](https://github.com/TraceyLauriault/COMM4407_Fall2016#week-8-nov-3--data-politics-activism-and-cultures) 	|
+| Week 9 (Nov.10th) 	| [Data Brokers and Credit Scoring](https://github.com/TraceyLauriault/COMM4407_Fall2016#week-8-nov-3--data-politics-activism-and-cultures) 	|
+| Week 10 (Nov.17th) 	| [The Rationale for Big Data](https://github.com/TraceyLauriault/COMM4407_Fall2016#week-10-nov-17--the-rationale-for-big-data) 	|
+| Week 11 (Nov.24th) 	| [The End of Science?](https://github.com/TraceyLauriault/COMM4407_Fall2016#week-11-nov-24--the-end-of-science) 	|
+| Week 12 (Dec.1st) 	| [Ethical, Political, Social and Legal Concerns](https://github.com/TraceyLauriault/COMM4407_Fall2016#week-12-dec-1--ethical-political-social-and-legal-concerns) 	|
 | Week 13 (Dec.8th) 	| Exam Review 	|
 
 #### NOTE
@@ -215,7 +218,7 @@ Dr. Mary Francoli will guest lecture on the topic of data and information policy
 #### WIKIPEDIA 4
 Read about plagiarism and pick your topics. Submit your topic to the CuLearn Forum.
 
- #### Week 5 (Oct. 6) - The Characteristics of Big Data
+## Week 5 (Oct. 6) - The Characteristics of Big Data
 To date in-class students have mostly discussed small data. This week students will learn what constitutes big data, and how to define and distinguish big data from small data. In addition, students will study the nature of big data, the characteristics of survey data, administrative data and big data and unpack the ontological traits of a number of datasets.  We will also discuss the role of experts, think tanks, and consulting firms in the shaping of big data discourse with an in-class led critical reading of 2 big data reports.
 
 #### Readings:
@@ -229,7 +232,7 @@ To date in-class students have mostly discussed small data. This week students w
 #### WIKIPEDIA 5
 Finalize your topic, find your sources, add them to you sandbox and begin to draft your article.
 
-## Week 6 (Oct. 13) – The Enablers of Big Data.
+## Week 6 (Oct. 13) – The Enablers of Big Data
 This week students will learn to think historically by examining the enablers of big data. We will do a high level genealogy of the technologies associated with the emergence of big data especially networks, systems, devices and sensors, social media and a variety of methods to collect data. By doing so students will learn that data and technological ‘revolutions’ do not come from no-where, they are evolutionary and they are socio-technological artifacts. In-class we will examine how the state of Massachusetts is strategically positioning itself as the big data centre of power in the US, by studying 2 key reports 1 spearheaded by the Governor’s Office and the other by an industry association.
 
 #### Reading:
@@ -362,3 +365,6 @@ It’s the last week, we will wrap up the Data Revolution book, and we will revi
 
 #### Reading:
 Chapter 11. [_The Data Revolution_](http://catalogue.library.carleton.ca/record=b3683612) (9 pages).
+
+
+<span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">COMM4407 Syllabus</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://carleton.ca/sjc/profile/lauriault-tracey/" property="cc:attributionName" rel="cc:attributionURL">Tracey P. Lauriault</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/TraceyLauriault/COMM4407_Fall2016" rel="dct:source">https://github.com/TraceyLauriault/COMM4407_Fall2016</a>.
